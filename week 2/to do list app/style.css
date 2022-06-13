@@ -1,0 +1,16 @@
+.mt-6{
+    margin-top: 50px;
+}
+
+.text-teal{
+    color: teal;
+}
+
+.p-6{
+    padding: 80px;
+}
+
+.checked-item{
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
+}
